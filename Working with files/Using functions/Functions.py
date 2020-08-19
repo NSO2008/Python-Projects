@@ -1,4 +1,4 @@
-filepath = "C:\TURBOC3\Projects\Alison Python\Functions_data.txt"
+filepath = "Functions_data.txt"
 READ = "r"
 WRITE = "w"
 APPEND = "a"
