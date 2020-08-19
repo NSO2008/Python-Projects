@@ -1,7 +1,7 @@
 #The syntax for opening a file is "myFile = open(fileName, accessMode)".
 #It is best to store the parameters in a variable in order to access it easily.\
 import csv
-filepath = "C:\TURBOC3\Projects\Alison Python\data.csv"
+filepath = "data.csv"
 READ = "r"
 WRITE = "w"
 APPEND = "a"
