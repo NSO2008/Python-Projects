@@ -1,5 +1,4 @@
 import sys
-import py_date as p
 first = input("Enter your first number: ")
 
 second = input("Enter your second number: ")
@@ -21,13 +20,3 @@ finally:
     print("Goodbye.")
 
 print("Your division was performed perfectly")
-p.add(1, 2)
-
-g = input("Input: ")
-
-if g == str(5):
-    raise Exception("Sorry")
-    error = sys.exc_info()[0]
-    print(error)
-else:
-    print("h")
