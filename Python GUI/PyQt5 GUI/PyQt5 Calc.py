@@ -9,16 +9,7 @@ import sys
 #QLineEdit
 #QComboBox
 #QRadioButton
-from PyQt5.QtWidgets import QApplication
-from PyQt5.QtWidgets import QLabel
-from PyQt5.QtWidgets import QWidget
-from PyQt5.QtWidgets import QPushButton
-from PyQt5.QtWidgets import QHBoxLayout
-from PyQt5.QtWidgets import QVBoxLayout
-from PyQt5.QtWidgets import QGridLayout
-from PyQt5.QtWidgets import QFormLayout
-from PyQt5.QtWidgets import QLineEdit
-from PyQt5.QtWidgets import QDialogButtonBox
+from PyQt5.QtWidgets import *
 from PyQt5.QtCore import Qt
 #This special module is used when you need to use functions with arguments
 from functools import partial
