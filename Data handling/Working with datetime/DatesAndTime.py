@@ -17,7 +17,7 @@ currentDate = datetime.date.today()
 #month = currentDate.strftime('%B')
 #year = currentDate.strftime('%Y')
 
-#This will print; "Today's date is the 13th of August, 2020."
+#This will print today's date
 #print("Today's date is the " + day + "th of " + month + ", " + year + ".")
 
 print("Okay, what if I told you I could guess how many days till your birthday...")
